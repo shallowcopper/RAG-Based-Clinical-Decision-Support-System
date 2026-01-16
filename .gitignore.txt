@@ -1,0 +1,2 @@
+# Ignore the large PDF data file if you don't want to host it
+# medical_diagnosis_manual.pdf
